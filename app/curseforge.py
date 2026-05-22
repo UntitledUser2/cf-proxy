@@ -2,7 +2,7 @@ import os
 import httpx
 
 BASE_URL = "https://api.curseforge.com/v1"
-GAME_ID  = 1062437   # Subnautica 2 — confirmed via /games/find endpoint
+GAME_ID  = 99704   # Subnautica 2 — confirmed via /games/find endpoint
 
 def headers():
     return {
