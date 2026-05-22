@@ -2,7 +2,7 @@ import os
 import httpx
 
 BASE_URL = "https://api.curseforge.com/v1"
-GAME_ID  = 9043   # Subnautica 2 — update if needed
+GAME_ID  = 1062437   # Subnautica 2 — update if needed
 
 # CurseForge ModsSearchSortField enum values (from API docs)
 SORT_FIELDS = {
